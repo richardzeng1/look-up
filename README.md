@@ -25,7 +25,7 @@ Now you can run the command whois. See usage for details
 
 ## **Usage**
 
-$whois <username>
+$whois username
 
 See limitations
 
